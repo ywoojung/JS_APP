@@ -5,6 +5,10 @@ const greeting = document.querySelector('.js-greetings');
 const USER_LS = 'currentUser';
 const SHOWING_CN = 'showing';
 
+function saveName(text) {
+
+}
+
 function handleSubmit(event) {
     event.preventDefault();
     
