@@ -7,5 +7,5 @@
 
 
 ## 사이트 확인하기
-<a href="https://ywoojung.github.io/JS_APP/" target="_blank">https://ywoojung.github.io/JS_APP/</a>
+[링크이름](https://ywoojung.github.io/JS_APP/){:target="_blank"}
 
